@@ -1,0 +1,823 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND",PL | TVP UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17538&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP1.png" group-title="PL | 4K POLAND",PL | TVP 1 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17544&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP2.png" group-title="PL | 4K POLAND",PL | TVP 2 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17542&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP3.png" group-title="PL | 4K POLAND",PL | TVP 3 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17541&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPSERIALE.png" group-title="PL | 4K POLAND",PL | TVP SERIALE UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17532&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN.png" group-title="PL | 4K POLAND",PL | TVN UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17552&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN7.png" group-title="PL | 4K POLAND",PL | TVN 7 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17556&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND",PL | POLSAT UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17625&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT2.png" group-title="PL | 4K POLAND",PL | POLSAT 2 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17633&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND",PL | TV PULS UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17564&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PULS2.png" group-title="PL | 4K POLAND",PL | PULS 2 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17593&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TV4HD.png" group-title="PL | 4K POLAND",PL | TV4 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17561&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TTV.png" group-title="PL | 4K POLAND",PL | TTV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17566&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNTURBO.png" group-title="PL | 4K POLAND",PL | TVN TURBO UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17548&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND",PL | TVP INFO UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17535&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN24.png" group-title="PL | 4K POLAND",PL | TVN 24 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17558&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN24.png" group-title="PL | 4K POLAND",PL | TVN24 BIS UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17546&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1WgsBUQ.png" group-title="PL | 4K POLAND",PL | TV TRWAM
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=612541&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS.png" group-title="PL | 4K POLAND",PL | POLSAT NEWS UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17620&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS2.png" group-title="PL | 4K POLAND",PL | POLSAT NEWS 2 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17622&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNSTYLE.png" group-title="PL | 4K POLAND",PL | TVN STYLE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17550&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TV6.png" group-title="PL | 4K POLAND",PL | TV6 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17560&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVREPUBLIKA.png" group-title="PL | 4K POLAND",PL | TV REPUBLIKA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17563&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATPLAY.png" group-title="PL | 4K POLAND",PL | POLSAT PLAY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17618&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATCAFE.png" group-title="PL | 4K POLAND",PL | POLSAT CAFE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17631&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUPERPOLSAT.png" group-title="PL | 4K POLAND",PL | SUPER POLSAT UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17579&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT.png" group-title="PL | 4K POLAND",PL | POLSAT RODZINA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135094&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNFABULA.png" group-title="PL | 4K POLAND",PL | TVN FABULA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17554&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT.png" group-title="PL | 4K POLAND",PL | POLSAT GAMES UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135087&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALHD.png" group-title="PL | 4K POLAND",PL | CANAL+ 4K
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=295665&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CBSEUROPAHD.png" group-title="PL | 4K POLAND",PL | CBS EUROPA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135019&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CBSREALITY.png" group-title="PL | 4K POLAND",PL | CBS REALITY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17745&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SCIFIHD.png" group-title="PL | 4K POLAND",PL | SCIFI UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17587&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FOX.png" group-title="PL | 4K POLAND",PL | FOX
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17689&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND",PL | FOX COMEDY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17691&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/13ULICAHD.png" group-title="PL | 4K POLAND",PL | 13 ULICA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17793&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/E!ENTERTAINMENT.png" group-title="PL | 4K POLAND",PL | E! ENTERTAINMENT UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17725&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVS.png" group-title="PL | 4K POLAND",PL | TVS UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=137418&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/STOPKLATKATV.png" group-title="PL | 4K POLAND",PL | STOPKLATKA TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17583&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUPERSTACJA.png" group-title="PL | 4K POLAND",PL | SUPER STACJA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135115&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FOKUSTV.png" group-title="PL | 4K POLAND",PL | FOKUS TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17695&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/METRO.png" group-title="PL | 4K POLAND",PL | METRO UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17664&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NOWATV.png" group-title="PL | 4K POLAND",PL | NOWA TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17645&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/WP.png" group-title="PL | 4K POLAND",PL | WP UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17525&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND",PL | DTX
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=124722&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ZOOMTV.png" group-title="PL | 4K POLAND",PL | ZOOM TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17524&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBC.png" group-title="PL | 4K POLAND",PL | BBC BRIT UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=139865&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBC.png" group-title="PL | 4K POLAND",PL | BBC LIFESTYLE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=139867&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ADVENTUREHD.png" group-title="PL | 4K POLAND",PL | ADVENTURE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17788&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DOMOHD.png" group-title="PL | 4K POLAND",PL | DOMO UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135033&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/HGTVHD.png" group-title="PL | 4K POLAND",PL: HGTV 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17681&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KUCHNIAHD.png" group-title="PL | 4K POLAND",PL | KUCHNIA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17668&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND",PL | STUDIO MED TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135112&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ROMANCETV.png" group-title="PL | 4K POLAND",PL | ROMANCE TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17589&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/LIFETIMEHD.png" group-title="PL | 4K POLAND",PL | LIFETIME UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17666&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUNDANCEHD.png" group-title="PL | 4K POLAND",PL | SUNDANCE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17581&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MOTOWIZJATVHD.png" group-title="PL | 4K POLAND",PL | MOTOWIZJA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17660&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DTX.png" group-title="PL | 4K POLAND",PL | DTX UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17727&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POWERTV.png" group-title="PL | 4K POLAND",PL | POWER TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17594&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ACTIVEFAMILY.png" group-title="PL | 4K POLAND",PL | ACTIVE FAMILY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17790&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/VH1.png" group-title="PL | 4K POLAND",PL | VH1 UHDʳᵉᶜ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17527&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPROZRYWKA.png" group-title="PL | 4K POLAND",PL | TVP ROZRYWKA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17533&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND",PL | ATM ROZRYWKA TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=134999&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND",PL | ✦●✦●      MUSIC      ✦●✦●      
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=197031&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MTVPOLSKA.png" group-title="PL | 4K POLAND",PL | MTV POLSKA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17656&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLOTV.png" group-title="PL | 4K POLAND",PL | POLO TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17635&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUN.TV.png" group-title="PL | 4K POLAND",PL | 4FUN TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17795&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATMUSIC.png" group-title="PL | 4K POLAND",PL | POLSAT MUSIC UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135090&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/VOXMUSIC.png" group-title="PL | 4K POLAND",PL: |UHD| VOX MUSIC TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17526&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ESKAROCKTV.png" group-title="PL | 4K POLAND",PL | ESKA ROCK TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135043&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND",PL | ESKA TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17714&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ESKATVEXTRA.png" group-title="PL | 4K POLAND",PL | ESKA TV EXTRA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17713&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DISCOPOLOMUSIC.png" group-title="PL | 4K POLAND",PL | DISCO POLO MUSIC UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135025&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUNGOLDHITS.png" group-title="PL | 4K POLAND",PL | 4FUN GOLD HITS UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17791&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUNDANCE.png" group-title="PL | 4K POLAND",PL | 4FUN DANCE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17792&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATROMANS.png" group-title="PL | 4K POLAND",PL | POLSAT ROMANS UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135095&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND",PL | TRACE TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135119&extension=ts
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TVS_%28Fernsehsender%29_Logo.svg/1280px-TVS_%28Fernsehsender%29_Logo.svg.png" group-title="PL | 4K POLAND",PL| TVS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339725&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHQ6wL5/LIVE-LOGO-PNG.png" group-title="PL | 4K POLAND",PL| CNN HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339766&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| TLC HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339769&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bdr1XRi.png" group-title="PL | 4K POLAND",PL| TVN HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339771&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| TVN24 HD INTERNATIONAL
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339773&extension=ts
+#EXTINF:-1 tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/Warner_TV_Poland_Logo.png" group-title="PL | 4K POLAND",PL| WARNER TV HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339775&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LgM2YU7.png" group-title="PL | 4K POLAND",PL| TTV HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339776&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| ZOOM TV HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339794&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| WP HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339795&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| ROMANCE TV HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339801&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| TELE5 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339811&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| STUDIOMED TV HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339812&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| CI POLSAT HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339840&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| POLSAT COMEDY CENTRAL EXTRA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339841&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| PARAMOUNT CHANNEL HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339842&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| AXN SPIN HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339845&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| BBC FIRST
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339846&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| AMC
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339847&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| CBS REALITY
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339848&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| COMEDY CENTRAL POLSKA HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339849&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| EPIC DRAMA HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339851&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| SUNDANCE HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339852&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| ROMANCE TV HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339853&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| NOVELA TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339854&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| TVN STYLE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339855&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| TLC HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339856&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| HGTV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339857&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| FOOD NETWORK HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339858&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| TVN TURBO
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339859&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| KINO POLSKA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339860&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png" group-title="PL | 4K POLAND",PL| MTV LIVE HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339861&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| MTV 90
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339863&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jHIOGn3.png" group-title="PL | 4K POLAND",PL| MTV HITS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339864&extension=ts
+#EXTINF:-1 tvg-logo="http://pic.qw1234.org/logos/tn_mtvdance.gif" group-title="PL | 4K POLAND",PL| MTV CLUB
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339865&extension=ts
+#EXTINF:-1 tvg-logo="http://focustv.xyz/files/ch/PORTEK%C4%B0Z/mtv_00s.png" group-title="PL | 4K POLAND",PL| MTV 80
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339866&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| TV REPUBLIKA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339871&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| WPOLSCE.PL
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339872&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| TV OKAZJE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339874&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| 4FUN KIDS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339876&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| AXN
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339878&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| BBC EARTH
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339880&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| E
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339886&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| MINIMINI+
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339890&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| MTV 90S
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339892&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sC9zDZn.png" group-title="PL | 4K POLAND",PL| MTV HITS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339893&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LPOMzbz.png" group-title="PL | 4K POLAND",PL| MTV LIVE HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339894&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| MTV POLSKA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339895&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| NOVELAS+
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339896&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| NUTA.TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339897&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| PLANETE+
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339898&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| TVN 24 BIS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339900&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| TVP ABC
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339910&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| TVP HISTORIA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339912&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| TVP KULTURA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339914&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL| TVT
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339944&extension=ts
+#EXTINF:-1 tvg-logo="https://lo1.in/pol/tvtg.png" group-title="PL | 4K POLAND",PL| TVT ZGORZELEC
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339945&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | 4K POLAND",PL | V EXPLORE
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339946&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | CINEMA",PL | ✦●✦●      FILM      ✦●✦●      
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=197030&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png" group-title="PL | CINEMA",PL | KINO POLSKA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17673&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png" group-title="PL | CINEMA",PL |  KINO POLSKA MUZYKA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17672&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATFILM.png" group-title="PL | CINEMA",PL | POLSAT FILM UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17627&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO1.png" group-title="PL | CINEMA",PL | HBO UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17687&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO2.png" group-title="PL | CINEMA",PL | HBO 2 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17685&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO3.png" group-title="PL | CINEMA",PL | HBO 3 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17683&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | CINEMA",PL | AXN UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17780&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNWHITE.png" group-title="PL | CINEMA",PL | AXN WHITE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135004&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNBLACK.png" group-title="PL | CINEMA",PL | AXN BLACK UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135001&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNSPIN.png" group-title="PL | CINEMA",PL | AXN SPIN UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17778&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALHD.png" group-title="PL | CINEMA",PL | CANAL+ UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17764&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | CINEMA",PL | CANAL 1 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17752&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALFAMILY.png" group-title="PL | CINEMA",PL | CANAL FAMILY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135009&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALFILM.png" group-title="PL | CINEMA",PL | CANAL FILM UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17766&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALSERIALE.png" group-title="PL | CINEMA",PL: |UHD| CANAL SERIALE 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17762&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ALEKINO.png" group-title="PL | CINEMA",PL | ALE KINO UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17787&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | CINEMA",PL | VOD 205 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=139871&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | CINEMA",PL | VOD 208 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=139874&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png" group-title="PL | CINEMA",PL | KINO TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17670&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXEXTRA.png" group-title="PL | CINEMA",PL | FILMBOX EXTRA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17700&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXPREMIUM.png" group-title="PL | CINEMA",PL | FILMBOX PREMIUM UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17697&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXACTION.png" group-title="PL | CINEMA",PL | FILMBOX ACTION UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135049&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXFAMILY.png" group-title="PL | CINEMA",PL | FILMBOX FAMILY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17699&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXARTHOUSE.png" group-title="PL | CINEMA",PL | FILMBOX ARTHOUSE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17702&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/EPICDRAMAHD.png" group-title="PL | CINEMA",PL | EPIC DRAMA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=137416&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | CINEMA",PL | AMC UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17784&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TNT.png" group-title="PL | CINEMA",PL | TNT UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17573&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | CINEMA",PL | CINEMAX UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17739&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CINEMAX2.png" group-title="PL | CINEMA",PL | CINEMAX 2 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17741&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | DOCU",✦●✦●      DOCU      ✦●✦●      
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=215646&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TRAVELCHANNEL.png" group-title="PL | DOCU",PL | TRAVEL CHANNEL UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17569&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | DOCU",PL | SCIFI
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=415994&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PARAMOUNTCHANNEL.png" group-title="PL | DOCU",PL | PARAMOUNT CHANNEL UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17639&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATDOKU.png" group-title="PL | DOCU",PL | POLSAT DOKU UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17629&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HISTORY.png" group-title="PL | DOCU",PL | HISTORY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17677&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HISTORY.png" group-title="PL | DOCU",PL | HISTORY 2 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=216595&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPHISTORIA.png" group-title="PL | DOCU",PL | TVP HISTORIA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17537&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPKULTURA.png" group-title="PL | DOCU",PL | TVP KULTURA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17534&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/DISCOVERYSCIENCE.png" group-title="PL | DOCU",PL | DISCOVERY SCIENCE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17729&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/DISCOVERY.png" group-title="PL | DOCU",PL | DISCOVERY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17734&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISCOVERYCHANNEL.png" group-title="PL | DOCU",PL | DISCOVERY LIFE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135028&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DISCOVERYHISTORIA.png" group-title="PL | DOCU",PL | DISCOVERY HISTORIA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17733&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DAVINCI.png" group-title="PL | DOCU",PL | DA VINCI UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17736&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PLANETEHD.png" group-title="PL | DOCU",PL | PLANETE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17637&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NATGEOPEOPLEHD.png" group-title="PL | DOCU",PL | NAT GEO PEOPLE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135076&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NGCWILD.png" group-title="PL | DOCU",PL | NATIONAL GEO WILD UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17650&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NGC.png" group-title="PL | DOCU",PL | NATIONAL GEO UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17652&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/BBCFIRST.png" group-title="PL | DOCU",PL | BBC FIRST UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17774&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBCEARTH.png" group-title="PL | DOCU",PL | BBC EARTH UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17776&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/WATERPLANET.png" group-title="PL | DOCU",PL | WATER PLANET UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=137421&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ID.png" group-title="PL | DOCU",PL | ID UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17675&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATEXPLOREHD.png" group-title="PL | DOCU",PL | POLSAT VIASAT EXPLORE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135102&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATHISTORY.png" group-title="PL | DOCU",PL | POLSAT VIASAT HISTORY UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17597&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATNATURE.png" group-title="PL | DOCU",PL | POLSAT VIASAT NATURE UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17595&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TLCHD.png" group-title="PL | DOCU",PL | TLC UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17575&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/FOODNETWORK.png" group-title="PL | DOCU",PL | FOOD NETWORK UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17693&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/STARSTV.png" group-title="PL | DOCU",PL | STARS TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17584&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | ✦●✦●      SPORT      ✦●✦●      
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=197029&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FIGHTBOXHD.png" group-title="PL | SPORT",PL | FIGHTBOX UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17705&extension=ts
+#EXTINF:-1 tvg-logo="http://orangebox.dynu.com:38093/Provip/Logotv/UFC.png" group-title="PL | SPORT",PL | UFC FIGHT PASS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646741&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPSPORT.png" group-title="PL | SPORT",PL | TVP SPORT 
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17530&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/EUROSPORT1.png" group-title="PL | SPORT",PL | EUROSPORT 1 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17711&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/EUROSPORT2.png" group-title="PL | SPORT",PL | EUROSPORT 2 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17709&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NSPORT+.png" group-title="PL | SPORT",PL | NSPORT UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17643&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SPORTKLUBHD.png" group-title="PL | SPORT",PL | SPORTKLUB UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17585&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORT.png" group-title="PL | SPORT",PL | POLSAT SPORT UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17613&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | POLSAT SPORT PREMIUM 1 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17609&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | POLSAT SPORT PREMIUM 2 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17607&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | POLSAT SPORT PREMIUM 3
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=271820&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | POLSAT SPORT PREMIUM 4
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=271821&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | POLSAT SPORT PREMIUM 5
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=271822&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | POLSAT SPORT PREMIUM 6
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=271823&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORTFIGHT.png" group-title="PL | SPORT",PL | POLSAT SPORT FIGHT UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=139869&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANAL+SPORTHD.png" group-title="PL | SPORT",PL | CANAL+  SPORT 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17754&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANAL+SPORT2HD.png" group-title="PL | SPORT",PL | CANAL+ SPORT 2
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17760&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | CANAL+ SPORT 3
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135014&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13814.png?ver=45066" group-title="PL | SPORT",PL | CANAL+ EXTRA 1 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=718137&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13814.png?ver=45066" group-title="PL | SPORT",PL | CANAL+ EXTRA 1 ᵁᴴᴰ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=718138&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13815.png?ver=56917" group-title="PL | SPORT",PL | CANAL+ EXTRA 2 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=718139&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13815.png?ver=56917" group-title="PL | SPORT",PL | CANAL+ EXTRA 2 ᵁᴴᴰ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=718140&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13816.png?ver=27653" group-title="PL | SPORT",PL | CANAL+ EXTRA 3 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=718142&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13816.png?ver=27653" group-title="PL | SPORT",PL | CANAL+ EXTRA 3 ᵁᴴᴰ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=718141&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13818.png?ver=45692" group-title="PL | SPORT",PL | CANAL+ EXTRA 4 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=718143&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13818.png?ver=45692" group-title="PL | SPORT",PL | CANAL+ EXTRA 4 ᵁᴴᴰ
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=718144&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORT.png" group-title="PL | SPORT",PL | CANAL+ SPORT 4
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=271819&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | ELEVEN SPORTS 1 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17723&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | ELEVEN SPORTS 2 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17721&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | ELEVEN SPORTS 3 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17719&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | ELEVEN SPORTS 4 UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17717&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/GOLFCHANNEL.png" group-title="PL | SPORT",PL | GOLF CHANNEL UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135060&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORTEXTRA.png" group-title="PL | SPORT",PL | POLSAT SPORT EXTRA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17617&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | EXTREME SPORTS UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135046&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FIGHTKLUBHD.png" group-title="PL | SPORT",PL | FIGHTKLUB UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135048&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS.png" group-title="PL | SPORT",PL | POLSAT SPORT NEWS UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17611&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| CANAL+ SPORT 2 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339990&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| CANAL+ SPORT 3 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339991&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Fr1uwn.png" group-title="PL | SPORT",PL| CANAL+ SPORT 5
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339992&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHVs7Rl.png" group-title="PL | SPORT",PL| CANAL+ SPORT HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339993&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| ELEVEN SPORTS 1 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339994&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a6yc1EC.png" group-title="PL | SPORT",PL| ELEVEN SPORTS 2 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339995&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| ELEVEN SPORTS 3 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339996&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| ELEVEN SPORTS 4 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339997&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT 1 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339998&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AoPdCYZ.png" group-title="PL | SPORT",PL| EUROSPORT 2 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340000&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| ELEVEN SPORTS 4
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340004&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RP35ubv.png" group-title="PL | SPORT",PL| CANAL + SPORT 3 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340005&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3AkzSpT.png" group-title="PL | SPORT",PL| CANAL + SPORT  4 HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340006&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| CANAL SPORT
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340008&extension=ts
+#EXTINF:-1 tvg-logo="https://epg.ovh/logo/Canal++Sport+4+HD.png" group-title="PL | SPORT",PL| CANAL+ SPORT 4
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340009&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Fr1uwn.png" group-title="PL | SPORT",PL| CANAL+ SPORT 5
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340010&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| ELEVEN SPORTS 1 4K
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340011&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | KIDS",PL | ✦●✦●      KIDS      ✦●✦●      
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=197032&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/COMEDYCENTRAL.png" group-title="PL | KIDS",PL | COMEDY CENTRAL UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17737&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/COMEDYCENTRALFAMILY.png" group-title="PL | KIDS",PL | COMEDY CENTRAL FAMILY POLSKA UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=137415&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/BABYTVHD.png" group-title="PL | KIDS",PL | BABY TV UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=137302&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATJIMJAM.png" group-title="PL | KIDS",PL | POLSAT JIM JAM UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135089&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/BOOMERANG.png" group-title="PL | KIDS",PL | BOOMERANG UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17772&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/CARTOONNETWORK.png" group-title="PL | KIDS",PL | CARTOON NETWORK UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135018&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISNEYCHANNEL.png" group-title="PL | KIDS",PL | DISNEY XD UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135032&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISNEYCHANNEL.png" group-title="PL | KIDS",PL | DISNEY JUNIOR UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=135031&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NICKJUNIOR.png" group-title="PL | KIDS",PL | NICK JR. UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17649&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NICKELODEON.png" group-title="PL | KIDS",PL |  NICKELODEON UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17648&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TELETOON.png" group-title="PL | KIDS",PL | TELETOON UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17577&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MINIMINIHD.png" group-title="PL | KIDS",PL | MINIMINI UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17662&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPABC.png" group-title="PL | KIDS",PL | TVP ABC UHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=17540&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | KIDS",PL| BOOMERANG HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339956&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | KIDS",PL| CARTOONITO
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339967&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6l33fXE.png" group-title="PL | KIDS",PL| NICK JR
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339969&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | KIDS",PL| NICKTOONS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339970&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | KIDS",PL| CARTOON NETWORK HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339971&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | KIDS",PL| BBC CBEEBIES
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339972&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | KIDS",PL| DISNEY CHANNEL
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339973&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QeuqzkB.png" group-title="PL | KIDS",PL| DISNEY JUNIOR
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339974&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JfHGFjQ.png" group-title="PL | KIDS",PL| DISNEY XD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339975&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | KIDS",PL| 4FUN KIDS
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339976&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | KIDS",PL| CARTOON NETWORK
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339979&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | KIDS",PL| DISNEY CHANNEL
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339981&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | KIDS",PL| DISNEY JUNIOR
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339982&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6l33fXE.png" group-title="PL | KIDS",PL| NICK
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339983&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | KIDS",PL| NICK JR.
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=339984&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",✦●✦●      PL VIAPLAY      ✦●✦●      
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=220841&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390273&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 2
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390262&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 3
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390257&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 4
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390256&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 5
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390255&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 6
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390254&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 7
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390253&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 8
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390252&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 9
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390251&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 10
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390272&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 11
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390271&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 12
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390270&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 13
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390269&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 14
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390268&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 15
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390267&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 16
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390266&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 17
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390265&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 18
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390264&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 19
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390263&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 20
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390261&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 21
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390260&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 22
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390259&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY",PL | VIAPLAY XTRA 23
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=390258&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | PPV",✦●✦●      PL PPV      ✦●✦●      
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=220852&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | PPV",PL | PPV 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=220853&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | PPV",PL | PPV 2
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=220854&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | PPV",PL | PPV 3
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=220855&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | PPV",PL | PPV 4
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=220856&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | PPV",PL | PPV 5
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=220857&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | PPV",PL | PPV 6
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=220858&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| POLSAT SPORT PREMIUM 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340013&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| POLSAT SPORT PREMIUM 2
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340014&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| POLSAT SPORT PREMIUM 3
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340015&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| POLSAT SPORT PREMIUM 6
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340016&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT EVENT 1
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340017&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT EVENT 2
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340018&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT EVENT 3
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340019&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT EVENT 4
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340020&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT EVENT 5
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340021&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT EVENT 6
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340022&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT EVENT 7
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340023&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT EVENT 8
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340024&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT EVENT 9
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340025&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT EVENT 10
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340026&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT EVENT 11
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340027&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT EVENT 12
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340028&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT EVENT 13
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340029&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT EVENT 14
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340030&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="PL | SPORT",PL| EUROSPORT EVENT 15
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=340031&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | LIGA KANAL 1 FHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646647&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | LIGA KANAL 2 FHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646648&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | LIGA KANAL 3 FHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646649&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | LIGA KANAL 4 FHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646650&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | LIGA KANAL 5 FHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646651&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | LIGA KANAL 6 FHD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646652&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | EMOCJE TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646748&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | POLSAT BOX GO PPV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646747&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | PLAYLIVE PPV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646746&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | GROMDA TV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646745&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | VIPMEDIA PVV
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646744&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | PPV KSW / FAME (LIVE EVENT)
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646743&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | FAME MMA
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646742&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | HIGH LEAGUE HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646740&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | MMA ATTACKE HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646739&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | WOTORE HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646653&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT",PL | OKTAGON HD
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:0C:01:A0&stream=646654&extension=ts
+#EXTINF:0 tvg-id="VIAPLAY" tvg-name="VIAPLAY" tvg-logo="" timeshift="7" catchup="fs" group-title="Sport" ,Viapley
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=1111763&extension=ts&play_token=INJjI8RlKc
+#EXTINF:0 tvg-id="VIAPLAY 2" tvg-name="VIAPLAY 2" tvg-logo="" timeshift="7" catchup="fs" group-title="Sport" ,Viapley 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=1111762&extension=ts&play_token=El2k5ZpFNb
+#EXTINF:0 tvg-id="VIAPLAY 3" tvg-name="VIAPLAY 3" tvg-logo="" timeshift="7" catchup="fs" group-title="Sport" ,Viapley 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=1111761&extension=ts&play_token=fbEuBVDQcf
+#EXTINF:0 tvg-id="VIAPLAY 4" tvg-name="VIAPLAY 4" tvg-logo="" timeshift="7" catchup="fs" group-title="Sport" ,Viapley 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=1111760&extension=ts&play_token=sBelC1IV53
+#EXTINF:0 tvg-id="VIAPLAY 5" tvg-name="VIAPLAY 5" tvg-logo="" timeshift="7" catchup="fs" group-title="Sport" ,Viapley 5
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=1111759&extension=ts&play_token=e0oQnAxIWl
+#EXTINF:0 tvg-id="VIAPLAY 6" tvg-name="VIAPLAY 6" tvg-logo="" timeshift="7" catchup="fs" group-title="Sport" ,Viapley 6
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=1111758&extension=ts&play_token=sUZSohMZQo
+#EXTINF:0 tvg-id="VIAPLAY 7" tvg-name="VIAPLAY 7" tvg-logo="" timeshift="7" catchup="fs" group-title="Sport" ,Viapley 7
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=1111757&extension=ts&play_token=CK3ftVZrK2
+#EXTINF:0 tvg-id="VIAPLAY 8" tvg-name="VIAPLAY 8" tvg-logo="" timeshift="7" catchup="fs" group-title="Sport" ,Viapley 8
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=1111756&extension=ts&play_token=zUSL4uMTEU
+#EXTINF:0 tvg-id="VIAPLAY 9" tvg-name="VIAPLAY 9" tvg-logo="" timeshift="7" catchup="fs" group-title="Sport" ,Viapley 9
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=1111755&extension=ts&play_token=YFVmekUZd6
+#EXTINF:0 tvg-id="VIAPLAY 10" tvg-name="VIAPLAY 10" tvg-logo="" timeshift="7" catchup="fs" group-title="Sport" ,Viapley 10
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=1111754&extension=ts&play_token=5FlwuTgw1p
+#EXTINF:0 tvg-id="VIAPLAY 11" tvg-name="VIAPLAY 11" tvg-logo="" timeshift="7" catchup="fs" group-title="Sport" ,Viapley 11
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=1111753&extension=ts&play_token=40X2pwail5
+#EXTINF:0 tvg-id="VIAPLAY 12" tvg-name="VIAPLAY 12" tvg-logo="" timeshift="7" catchup="fs" group-title="Sport" ,Viapley 12
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=1111752&extension=ts&play_token=jbWOocQ2Q3
+#EXTINF:0 tvg-id="VIAPLAY 13" tvg-name="VIAPLAY 13" tvg-logo="" timeshift="7" catchup="fs" group-title="Sport" ,Viapley 13
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=1111751&extension=ts&play_token=nt4fLETa5z
+#EXTINF:0 tvg-id="VIAPLAY 14" tvg-name="VIAPLAY 14" tvg-logo="" timeshift="7" catchup="fs" group-title="Sport" ,Viapley 14
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=1111749&extension=ts&play_token=mh826Ho24m
+#EXTINF:0 tvg-id="VIAPLAY 15" tvg-name="VIAPLAY 15" tvg-logo="" timeshift="7" catchup="fs" group-title="Sport" ,Viapley 15
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:AE:88:4E&stream=1111735&extension=ts&play_token=0Lub2QoGSU
+#EXTINF:-1,EROX 
+http://178.219.128.68:64888/EROXHD
+#EXTINF:-1,Hustler 
+http://178.219.128.68:64888/HUSTHD
+#EXTINF:-1,Reality Kings 
+http://178.219.128.68:64888/REALKING
+#EXTINF:-1,Brazzers 
+http://178.219.128.68:64888/BRAZHD
+#EXTINF:-1,Private 
+http://178.219.128.68:64889/PRIVTVHD
+#EXTINF:-1,XVIDEO 01
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1188
+#EXTINF:-1,XVIDEO 02
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1189
+#EXTINF:-1,XVIDEO 03
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1190
+#EXTINF:-1,XVIDEO 04
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1191
+#EXTINF:-1,XVIDEO 05
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1192
+#EXTINF:-1,XVIDEO 06
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1193
+#EXTINF:-1,XVIDEO 07
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1194
+#EXTINF:-1,XVIDEO 08
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1195
+#EXTINF:-1,XVIDEO 09
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1196
+#EXTINF:-1,XVIDEO 10
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1197
+#EXTINF:-1,XVIDEO 11
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1198
+#EXTINF:-1,XVIDEO 12
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1199
+#EXTINF:-1,XVIDEO 13
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1200
+#EXTINF:-1,XVIDEO 14
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1201
+#EXTINF:-1,XVIDEO 15
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1202
+#EXTINF:-1,XVIDEO 16
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1203
+#EXTINF:-1,XVIDEO 17
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1204
+#EXTINF:-1,XVIDEO 19
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1206
+#EXTINF:-1,XVIDEO 20
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1207
+#EXTINF:-1,XVIDEO 21
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1208
+#EXTINF:-1,XVIDEO 22
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1209
+#EXTINF:-1,XVIDEO 23
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1210
+#EXTINF:-1,XVIDEO 24
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1211
+#EXTINF:-1,XVIDEO 25
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1212
+#EXTINF:-1,XVIDEO 26
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1213
+#EXTINF:-1,XVIDEO 27
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1214
+#EXTINF:-1,XVIDEO 28
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1215
+#EXTINF:-1,XVIDEO 29
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1216
+#EXTINF:-1,XVIDEO 30
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1217
+#EXTINF:-1,XVIDEO 31
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1218
+#EXTINF:-1,XVIDEO 32
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1219
+#EXTINF:-1,XVIDEO 33
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1220
+#EXTINF:-1,XVIDEO 34
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1221
+#EXTINF:-1,XVIDEO 35
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1222
+#EXTINF:-1,XVIDEO 36
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1223
+#EXTINF:-1,XVIDEO 37
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1224
+#EXTINF:-1,XVIDEO 38
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1225
+#EXTINF:-1,XVIDEO 39
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1226
+#EXTINF:-1,XVIDEO 40
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1227
+#EXTINF:-1,XVIDEO 41
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1228
+#EXTINF:-1,XVIDEO 42
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1229
+#EXTINF:-1,XVIDEO 43
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1230
+#EXTINF:-1,XVIDEO 44
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1231
+#EXTINF:-1,XVIDEO 45
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1232
+#EXTINF:-1,XVIDEO 46
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1233
+#EXTINF:-1,XVIDEO 47
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1234
+#EXTINF:-1,XVIDEO 48
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1235
+#EXTINF:-1,XVIDEO 49
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1236
+#EXTINF:-1,XVIDEO 50
+http://authxplus-2.xyz:2082/Tourobox1-sPzduKooeP/TVHhJez75M/1237
